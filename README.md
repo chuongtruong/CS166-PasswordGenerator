@@ -1,8 +1,7 @@
 # RANDOM PASSWORD GENERATOR
 
 ## Live Demo
-
-[https://pwd-generator1.netlify.app]
+https://pwd-generator1.netlify.app
 
 ### About the app
 
